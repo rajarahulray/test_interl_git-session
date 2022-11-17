@@ -2,3 +2,5 @@ this is a text for git. Change No. 1.
 
 another change in master....
 
+Chenges from Branch_3
+
